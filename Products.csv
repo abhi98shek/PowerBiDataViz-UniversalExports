@@ -1,0 +1,110 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_CATEGORY,PRODUCT_COLOUR,PRICE_PER_UNIT,COST
+1,Unisex T-Shirt in White,T-Shirt,White,6,3
+2,Unisex T-Shirt in Grey,T-Shirt,Grey,6,3
+3,Unisex T-Shirt in Black,T-Shirt,Black,6,3
+4,Unisex T-Shirt in Pink,T-Shirt,Pink,6,3
+5,Unisex T-Shirt in Red,T-Shirt,Red,6,3
+6,Unisex T-Shirt in Orange,T-Shirt,Orange,6,3
+7,Unisex T-Shirt in Beige,T-Shirt,Beige,6,3
+8,Unisex T-Shirt in Brown,T-Shirt,Brown,6,3
+9,Unisex T-Shirt in Green,T-Shirt,Green,6,3
+10,Unisex T-Shirt in Yellow,T-Shirt,Yellow,6,3
+11,Unisex T-Shirt in Blue,T-Shirt,Blue,6,3
+12,Unisex T-Shirt in Purple,T-Shirt,Purple,6,3
+13,Unisex T-Shirt in Navy,T-Shirt,Navy,6,3
+14,Unisex T-Shirt in Aqua,T-Shirt,Aqua,6,3
+75,White Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,White,10,6.5
+76,Grey Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Grey,10,6.5
+77,Black Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Black,10,6.5
+78,Pink Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Pink,10,6.5
+79,Red Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Red,10,6.5
+80,Orange Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Orange,10,6.5
+81,Beige Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Beige,10,6.5
+82,Brown Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Brown,10,6.5
+83,Green Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Green,,6.5
+84,Yellow Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Yellow,,6.5
+85,Blue Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Blue,,6.5
+86,Purple Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Purple,,6.5
+87,Navy Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Navy,,6.5
+88,Aqua Alpha V2 Unisex T-Shirt for Special Comfort,T-Shirt,Aqua,,6.5
+15,Standard Hoodie White,Hoodie,White,18,10
+16,Standard Hoodie Grey,Hoodie,Grey,18,10
+17,Standard Hoodie Black,Hoodie,Black,18,10
+18,Standard Hoodie Pink,Hoodie,Pink,18,10
+19,Standard Hoodie Red,Hoodie,Red,18,10
+20,Standard Hoodie Orange,Hoodie,Orange,18,10
+21,Standard Hoodie Beige,Hoodie,Beige,18,10
+22,Standard Hoodie Brown,Hoodie,Brown,18,10
+23,Standard Hoodie Green,Hoodie,Green,18,10
+24,Standard Hoodie Yellow,Hoodie,Yellow,18,10
+25,Standard Hoodie Blue,Hoodie,Blue,18,10
+26,Standard Hoodie Purple,Hoodie,Purple,18,10
+27,Standard Hoodie Navy,Hoodie,Navy,18,10
+28,Standard Hoodie Aqua,Hoodie,Aqua,18,10
+89,Xtra Sport Hoodie for Athlete in White,Hoodie,White,16,-5
+90,Xtra Sport Hoodie for Athlete in Grey,Hoodie,Grey,16,5
+91,Xtra Sport Hoodie for Athlete in Black,Hoodie,Black,16,5
+92,Xtra Sport Hoodie for Athlete in Pink,Hoodie,Pink,16,5
+93,Xtra Sport Hoodie for Athlete in Red,Hoodie,Red,16,5
+94,Xtra Sport Hoodie for Athlete in Orange,Hoodie,Orange,16,5
+95,Xtra Sport Hoodie for Athlete in Beige,Hoodie,Beige,16,5
+96,Xtra Sport Hoodie for Athlete in Brown,Hoodie,Brown,16,5
+97,Xtra Sport Hoodie for Athlete in Green,Hoodie,Green,16,5
+98,Xtra Sport Hoodie for Athlete in Yellow,Hoodie,Yellow,16,5
+99,Xtra Sport Hoodie for Athlete in Blue,Hoodie,Blue,16,5
+100,Xtra Sport Hoodie for Athlete in Purple,Hoodie,Purple,16,5
+101,Xtra Sport Hoodie for Athlete in Navy,Hoodie,Navy,16,5
+102,Xtra Sport Hoodie for Athlete in Aqua,Hoodie,Aqua,16,5
+29,Standard Sweatshirt White,Sweatshirt,White,7000000,4
+30,Standard Sweatshirt Grey,Sweatshirt,Grey,7,4
+31,Standard Sweatshirt Black,Sweatshirt,Black,7,4
+32,Standard Sweatshirt Pink,Sweatshirt,Pink,7,4
+33,Standard Sweatshirt Red,Sweatshirt,Red,7,4
+34,Standard Sweatshirt Orange,Sweatshirt,Orange,7,4
+35,Standard Sweatshirt Beige,Sweatshirt,Beige,7,4
+36,Standard Sweatshirt Brown,Sweatshirt,Brown,7,4
+37,Standard Sweatshirt Green,Sweatshirt,Green,7,4
+38,Standard Sweatshirt Yellow,Sweatshirt,Yellow,7,4
+39,Standard Sweatshirt Blue,Sweatshirt,Blue,7,4
+40,Standard Sweatshirt Purple,Sweatshirt,Purple,7,4
+41,Standard Sweatshirt Navy,Sweatshirt,Navy,7,4
+42,Unisex Polo Shirt in White,Polo Shirt,White,15,7
+43,Unisex Polo Shirt in Grey,Polo Shirt,Grey,15,7
+44,Unisex Polo Shirt in Black,Polo Shirt,Black,15,7
+45,Unisex Polo Shirt in Pink,Polo Shirt,Pink,15,7
+46,Unisex Polo Shirt in Red,Polo Shirt,Red,15,7
+47,Unisex Polo Shirt in Orange,Polo Shirt,Orange,15,7
+48,Unisex Polo Shirt in Beige,Polo Shirt,Beige,15,7
+49,Unisex Polo Shirt in Brown,Polo Shirt,Brown,15,7
+50,Unisex Polo Shirt in Green,Polo Shirt,Green,15,7
+51,Unisex Polo Shirt in Yellow,Polo Shirt,Yellow,15,7
+52,Unisex Polo Shirt in Blue,Polo Shirt,Blue,15,7
+53,Unisex Polo Shirt in Purple,Polo Shirt,Purple,15,7
+54,Unisex Polo Shirt in Navy,Polo Shirt,Navy,15,7
+55,Unisex Polo Shirt in Aqua,Polo Shirt,Aqua,15,7
+103,Alpha V2 Polo Shirt for Special Comfort in White,Polo Shirt,White,22,15
+104,Alpha V2 Polo Shirt for Special Comfort in Grey,Polo Shirt,Grey,22,15
+105,Alpha V2 Polo Shirt for Special Comfort in Yellow,Polo Shirt,Yellow,22,15
+106,Alpha V2 Polo Shirt for Special Comfort in Blue,Polo Shirt,Blue,22,15
+107,Alpha V2 Polo Shirt for Special Comfort in Purple,Polo Shirt,Purple,22,15
+108,Alpha V2 Polo Shirt for Special Comfort in Navy,Polo Shirt,Navy,22,15
+109,Alpha V2 Polo Shirt for Special Comfort in Aqua,Polo Shirt,Aqua,22,15
+56,Cardigan Fake Knitted White,Cardigan,White,30,17.5
+57,Cardigan Fake Knitted Grey,Cardigan,Grey,30,17.5
+58,Cardigan Fake Knitted Brown,Cardigan,Brown,30,17.5
+59,Cardigan Fake Knitted Green,Cardigan,Green,30,17.5
+60,Cardigan Fake Knitted Yellow,Cardigan,Yellow,30,17.5
+61,Cardigan Fake Knitted Blue,Cardigan,Blue,30,17.5
+62,Cardigan Fake Knitted Purple,Cardigan,Purple,30,17.5
+63,Cardigan Fake Knitted Navy,Cardigan,Navy,30,17.5
+64,Cardigan Fake Knitted Aqua,Cardigan,Aqua,30,17.5
+65,Bomber Jacket White,Jacket,White,40,25
+66,Bomber Jacket Grey,Jacket,Grey,40,25
+67,Military Jacket Black,Jacket,Black,40,25
+68,Red V1 Bomber Jacket,Jacket,Red,40,25
+69,Sunlight V1 Bomber Jacket,Jacket,Orange,40,25
+70,Tan V1 Bomber Jacket,Jacket,Brown,40,
+71,Military Jacket Green,Jacket,Green,40,
+72,Military Jacket Navy,Jacket,Blue,40,25
+73,Military Jacket Blue,Jacket,Navy,40,25
+74,Bomber Jacket Aqua,Jacket,Aqua,40,25

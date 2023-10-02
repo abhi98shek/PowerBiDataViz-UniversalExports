@@ -1,0 +1,21 @@
+LOGISTIC_ID,LOGISTIC_NAME,LOGISTIC_TYPE,LOGISTIC_OFFICE_LOCATION,CONTACT_EMAIL,CONTACT_NUMBER
+3,AirSat,Air,"London, UK",contact@airsat.com,
+4,Orion Freight,Land,"London, UK",shipping@of.co.uk,7249089522
+6,SLAC Line,Sea,"Southampton, UK",SLAC@SLAC.com,
+7,Excess Land Freight,Land,"London, UK",bookingland@elf.co.uk,
+8,Midland Rail,Land,"Birmingham, UK",rail@midlandrail.co.uk,4367344652
+9,Global Shipment,"Air, Land, Sea","Amsterdam, Netherlands",GS@gmail.com,5325711601
+11,Orange Lion,"Air, Land, Sea","Rotterdam, Netherlands",MV@OrangeLion.com,6409975423
+12,Iberian Shipping,"Air, Land, Sea","Lisbon, Portugal",freight@iberianshipping.com,3913082443
+13,Carriage Group,"Air, Land, Sea","London, UK",CG@CG.co.uk,3878952855
+14,Guichard Group,Air,"Paris, France",contact@guichard.com,7320917648
+15,Fashionistic,Land,"Marseille, France",transport@fashionistic,
+16,Viking Logistic,Sea,"Stockholm, Sweden",VKL@VKL.net,7941253929
+17,SVS,Land,"Zofia, Bulgaria",,3591515213
+18,ILA,Air,"Brussel, Belgium",ILA@ILA.com,9183534011
+20,Kahn Service,"Air, Land, Sea","Hamburg, Germany",shipping@ks.de,2368955888
+21,FreightEx,"Air, Land, Sea","London, UK",FreightEx@FreightEx.com,
+22,Freight International,"Air, Land, Sea","London, UK",FI@gmail.com,2100955029
+23,PAGL,Air,"Rome, Italy",PAGL@PAGL.com,3237118897
+24,Mindaugas Air,Air,"Vilnius, Lithuania",shipping@ma.lt,2722916587
+25,WorldEyes,Air,"London, UK",WorldEyes@WorldEyes.com,9781290390
